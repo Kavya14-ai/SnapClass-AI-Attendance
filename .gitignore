@@ -1,0 +1,18 @@
+# Python virtual environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Supabase secrets
+.streamlit/secrets.toml
+
+# Environment variables
+.env
+.env.*
+
+# IDE files
+.vscode/
+**/secrets.toml
